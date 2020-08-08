@@ -4,5 +4,5 @@
 
 The first presentation and the two recording on YouTube will be added soon.
 
-1. **Git and GitHub.**
+1. **Git and GitHub.** [Presentation slides (pdf)](https://github.com/oceanhackweek/ohw-preweek/tree/master/git-github-survival-guide)
 2. **Jupyter and Scientific Python basics: numpy, pandas, matplotlib.** [Jupyter Notebooks](https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules)
